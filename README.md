@@ -1,2 +1,2 @@
 # Sensor-Calibration-using-Kalman-Filter
-Accelerometer bias error is calibrated with Kalman Filter using GPS measurements in velocity and position with random Gaussian noise
+GPS-based accelerometer bias error calibration using Kalman Filter applied to a linear Gaussian process.
